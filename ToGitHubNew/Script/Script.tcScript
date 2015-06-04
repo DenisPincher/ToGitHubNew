@@ -29,6 +29,15 @@
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
+			<Node name="unit2">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Unit2.svb"/>
+				</Node>
+				<Prp name="key" type="S" value="{7CE82845-3F4C-4AD2-9BE4-60EE7F37C901}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
 		</Node>
 		<Node name="folders"/>
 		<Node name="settings"/>
